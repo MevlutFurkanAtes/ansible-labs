@@ -13,6 +13,10 @@ Update package cache and upgrade installed packages.
 ### install_tools.yml
 Install useful Linux tools.
 
+### install_nginx.yml
+
+Install and start nginx web server.
+
 ## Technologies
 
 - Ansible
